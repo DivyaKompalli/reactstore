@@ -1,6 +1,8 @@
-.App-Header-Row {
+.App-row {
   display: flex;
   justify-content: space-between;
-  background-color: lavender;
+}
+.App-row div {
+  margin: 5px;
   padding: 5px;
 }
